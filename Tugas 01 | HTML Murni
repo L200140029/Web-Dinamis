@@ -1,0 +1,197 @@
+<html>
+<head>
+	<title>Curriculum Vitae</title>
+</head>
+
+<body background="/Background/6975166-beach-hd-wallpaper-6468.jpg">
+	<h1 align="center"><font face="Comic Sans MS">Curriculum Vitae</font></h1>
+	<table>
+		<tr>
+			<td colspan="3" align="center"><font face="Comic Sans MS"><b>Identitas</b></font></td>
+		</tr>
+		<tr>
+			<td width="900" align="right"><font face="Comic Sans MS">Nama</font></td>
+			<td width="50" align="center"><font face="Comic Sans MS">:</font></td>
+			<td width="800"><font face="Comic Sans MS">Aziz Abdul Rahman</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Tempat/ Tanggal Lahir</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Surakarta, 24 Januari 1996</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Jenis Kelamin</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Laki-Laki</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Agama</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Islam</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Usia</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">19 Tahun</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Status</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Single</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Alamat</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Jalan Benowo 3 Bangsren Rt 02/ 22</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Kelurahan</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Makamhaji</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Kecamatan</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Kartasura</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Kabupaten/ Kota</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Sukoharjo</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Provinsi/ Negara Bagian</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Jawa Tengah</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Negara</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Indonesia</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Suku</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Jawa</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Kewarganegaraan</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Indonesia</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Kode Pos</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">57161</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Tinggi Badan</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">5.3 Feet</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Berat Badan</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">42 KG</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Kode Pos</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">57161</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Pekerjaan</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Mahasiswa</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Hobby</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Sing Songs</font></td>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp;</td>
+		</tr>
+
+		<!--Contact Person -->
+		<tr>
+			<td colspan="3" align="center"><font face="Comic Sans MS"><b>Contact Person</b></font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Mobile Number</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">089-626-426-975</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Email</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">cutebooiizz@gmail.com</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Blackberry PIN</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">75068B8D</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">Line ID</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">azizguava</font></td>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp;</td>
+		</tr>
+
+		<!--Riwayat Pendidikan -->
+		<tr>
+			<td colspan="3" align="center"><font face="Comic Sans MS"><b>Riwayat Pendidikan</b></font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">2000 - 2002</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">TK Aisyiyah Sidodadi Surakarta</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">2002 - 2008</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">SD Djama 'Atul Ichwan Surakarta</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">2008 - 2011</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">SMP Negeri 19 Surakarta</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">2011 - 2014</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">SMK Muhammadiyah 3 Surakarta</font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">2014 - Sekarang</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Universitas Muhammadiyah Surakarta</font></td>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp;</td>
+		</tr>
+
+		<!--Pengalaman Kerja -->
+		<tr>
+			<td colspan="3" align="center"><font face="Comic Sans MS"><b>Pengalaman Kerja</b></font></td>
+		</tr>
+		<tr>
+			<td align="right"><font face="Comic Sans MS">2013</font></td>
+			<td align="center"><font face="Comic Sans MS">:</font></td>
+			<td><font face="Comic Sans MS">Click Computer</font></td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td align="center" width="90"><a href="http://azizguava24.blogspot.co.id/" target="_blank"><img src="/Icon/blog-button-300x19311.png" width="50"></a></td>
+			<td align="center" width="90"><a href="https://www.facebook.com/aziz.ingin.berteman" target="_blank"><img src="/Icon/facebook-button.png" width="100"></a></td>
+			<td align="center" width="90"><a href="https://instagram.com/azizananta/" target="_blank"><img src="/Icon/Instragram logo.png" width="80"></a></td>
+			<td align="center" width="90"><a href="https://plus.google.com/u/0/113140826182297135942/posts" target="_blank"><img src="/Icon/getsoci13.png" width="50"></a></td>
+			<td align="center" width="90"><a href="https://www.youtube.com/channel/UCflZ7N-J4rMK6vSWgRtaQvg" target="_blank"><img src="/Icon/YouTube01.png" width="70"></a></td>
+		</tr>
+	</table>
+</body>
+</html>
